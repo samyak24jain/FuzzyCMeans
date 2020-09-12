@@ -1,2 +1,2 @@
 # Fuzzy C Means
-A Python implementation of Fuzzy C Means Clustering algorithm.
+A Python 2 implementation of Fuzzy C Means Clustering algorithm.
